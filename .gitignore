@@ -1,0 +1,7 @@
+outputs
+tutorial
+data
+data/x_train.npy
+data/x_test.npy
+data/y_train.npy
+data/t_train.npy
