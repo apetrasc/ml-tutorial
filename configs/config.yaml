@@ -10,4 +10,5 @@ use_wandb: False
 data_dir: data
 
 # Evaluation
-model_path: 
+model_path:
+ckpt_path: "model_best.pt" 
